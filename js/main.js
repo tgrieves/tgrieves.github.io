@@ -32,6 +32,7 @@ function askQuestions () {
 		if (lastName.toLowerCase() !==  assembly) {
 			console.log ('greetings general!');
 		}
+	}
 }
 
 
@@ -50,5 +51,3 @@ $(function () {
 	});
 
 });
-
-}
